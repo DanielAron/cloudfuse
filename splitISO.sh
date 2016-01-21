@@ -1,0 +1,1 @@
+tar cvzf - Win7.iso | split -d -b 100m - Win7.iso.tar.gz.
